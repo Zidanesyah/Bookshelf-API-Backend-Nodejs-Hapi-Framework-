@@ -1,4 +1,5 @@
-#Bookshelf API Backend
+Bookshelf API Backend
+==
 This is simple basic backend project by using Node js and use Hapi Framework to build structure of code.
 This Document is using for Graduated Dicoding Basic Backend with javasricpt. How to use this code :
   - Clone this repository to your local device.
